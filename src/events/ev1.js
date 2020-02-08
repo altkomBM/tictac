@@ -5,8 +5,10 @@ class Football extends React.Component {
         alert("Great Shot!");
     }
     render() {
-        return (
-            <button onClick={this.shoot}>Take the shot!</button>
-        );
+        console.log(2122);
+        return  (
+            <button onClick={this.shoot}>asdTake dasfasdasfadfsthe shot!</button>
+         );
+        console.log(2122);
     }
 }
